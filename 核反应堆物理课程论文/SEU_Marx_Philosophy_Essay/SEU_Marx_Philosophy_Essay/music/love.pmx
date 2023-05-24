@@ -1,0 +1,25 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Br\"{u}nnhilde and Siegfried Love}
+---
+1 -1 1 4 4 4 4  0.00000 -2 1 1 16 0
+
+0
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w82m
+% Paragraph 2 line 8 bar 1
+c85s d8 g4d f8 d4x3 b a | /
+
+%Bar 2
+g4 e2+ \mtxZchar{10}{\tr{g}}\ a4- | /
+
+%Bar 3
+Gg Ga b4 r2d RD
+ /
+
+% Coded by M-Tx

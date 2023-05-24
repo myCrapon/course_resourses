@@ -1,0 +1,21 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Purification}
+---
+1 -1 1 12 8 12 8  0.00000 2 1 1 16 0
+
+0
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w82m
+% Paragraph 2 line 8 bar 1
+(S d45d d4 )S c1 d1 (S e4d e8 )S d8 c8 | /
+
+%Bar 2
+d4d (S e4-d e8 )S r8 r8 r4 r8 /
+
+% Coded by M-Tx

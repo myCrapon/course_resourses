@@ -1,0 +1,25 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Hero}
+---
+1 -1 1 4 4 4 4  0.00000 -2 1 1 16 0
+
+6
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w80m
+% Paragraph 2 line 9 bar 1
+b43 zf zd (S f2+ zd zb f8+ )S zd zb d8 zb zf | /
+
+%Bar 2
+b2 zf zd c4+ zf- ze d4+ zb zf | /
+
+%Bar 3
+e8+ za- zg d8+ za zf c2+d za ze RD
+ /
+
+% Coded by M-Tx

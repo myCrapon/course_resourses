@@ -1,0 +1,12 @@
+Title: \bigtype Amnesia
+Style: NewSATB
+NewSATB: Voices S,A T,B; Continuo; Clefs G F
+Meter: 3/4
+Size: 16
+Width: 80mm
+
+U: \Trille{f}{1.5} ~ ~ \Trille{f}{1.5}
+{ g2d g2 }{ b4 } | { g2d  g2  }{ b4 }
+{ c2d c4 }  cs2  | { c2dn c4  } cs2
+{ d2sd e2d }     | { d2sd e2d }
+{ g-2d g2d }       { g2d  g2d }

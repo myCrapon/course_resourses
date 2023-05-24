@@ -1,0 +1,25 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Hagen}
+---
+1 -1 1 3 4 3 4  0.00000 0 1 1 16 0
+
+0
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w82m
+% Paragraph 2 line 7 bar 1
+\\\mtxSetLyrics{11}{~ ~ Hoi-Ho}\
+\\\mtxAssignLyrics{1}{11}\
+c45 d24s /
+
+%Bar 2
+ Rd
+\mtxZchar{10}{Hagen's~Call}\ d4f c2 RD
+ /
+
+% Coded by M-Tx

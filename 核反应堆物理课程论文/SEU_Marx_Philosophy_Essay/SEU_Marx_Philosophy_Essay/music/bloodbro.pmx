@@ -1,0 +1,41 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Blood Brotherhood}
+---
+1 -1 1 2 2 2 2  0.00000 -2 0 4 16 0
+
+0
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w82m
+% Paragraph 2 line 9 bar 1
+e05 | /
+
+%Bar 2
+d4d c8 b2 | /
+
+%Bar 3
+c0 | /
+
+%Bar 4
+f4- r2d Rd
+ /
+
+% Paragraph 3 line 11 bar 5
+{ f2+ f2x3 } f f | /
+
+%Bar 6
+f2 e2 | /
+
+%Bar 7
+{ d2f d2x3 } b c | /
+
+%Bar 8
+d4f r2d RD
+ /
+
+% Coded by M-Tx

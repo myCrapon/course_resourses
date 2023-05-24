@@ -1,0 +1,22 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Br\"{u}nnhilde}
+---
+1 -1 1 4 4 4 4  0.00000 -2 1 1 16 0
+
+0
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w82m
+% Paragraph 2 line 8 bar 1
+e44d (S d3 e3 f3 e3 )S c4+d g8 /
+
+%Bar 2
+(S b4 c2-d )S RD
+ /
+
+% Coded by M-Tx

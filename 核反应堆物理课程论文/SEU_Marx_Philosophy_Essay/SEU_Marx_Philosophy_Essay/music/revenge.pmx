@@ -1,0 +1,33 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Revenge}
+---
+1 -1 1 4 4 4 4  0.00000 0 1 1 16 0
+
+6
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w82m
+% Paragraph 2 line 8 bar 1
+{ b03f | /
+
+%Bar 2
+b4f } a4 g4sd e8+ | /
+
+%Bar 3
+{ g0-n | /
+
+%Bar 4
+g4 } f4s f4nd d8+ | /
+
+%Bar 5
+e4- d4s d4nd b8+ | /
+
+%Bar 6
+c0s /
+
+% Coded by M-Tx

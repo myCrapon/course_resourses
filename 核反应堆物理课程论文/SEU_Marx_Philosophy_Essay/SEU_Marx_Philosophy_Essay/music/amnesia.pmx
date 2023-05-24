@@ -1,0 +1,39 @@
+---
+\def\mtxversion{0.63a}
+\def\mtxdate{<8 April 2018>}
+\input mtx
+\mtxTitleLine{\bigtype Amnesia}
+---
+2 -1 2 3 4 3 4  0.00000 0 1 1 16 0
+
+60
+./
+\\mtxSetSize{1}{\mtxNormalSize}\
+Tt
+\mtxTitle
+w80m
+% Paragraph 2 line 8 bar 1
+{ g22d //
+{ d23sd /
+{ c24d //
+{ \mtxZchar{10}{\Trille{f}{1.5}}\ g24d /
+
+%Bar 2
+g2d } //
+e2d } | /
+c4 } c2s | //
+g2 st st b4 } | /
+
+%Bar 3
+{ g2d //
+{ d2sd /
+{ c2nd //
+{ \mtxZchar{10}{\Trille{f}{1.5}}\ g2d /
+
+%Bar 4
+g2d } //
+e2d } /
+c4 } c2s //
+g2 st st b4 } /
+
+% Coded by M-Tx
